@@ -18,7 +18,7 @@ ACTION ITEMS------------------------------------------------------------------
 
   - LINKS
     - make sure links (e.g., Linkedin) opens page in new tab
-    - add link to Discogs (https://www.discogs.com/user/alhint)
+    - add link to Discogs (https://www.discogs.com/user/alhint) (https://fontawesome.com/icons/record-vinyl?style=solid)
 
   - BUILD ISSUE
     - fix build issue with using terminal in atom
