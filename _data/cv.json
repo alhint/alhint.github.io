@@ -1,89 +1,164 @@
 {
   "basics": {
     "name": "Anthony Hinton",
-    "label": "Programmer",
+    "label": "Product Manager",
     "picture": "",
     "email": "me@anthonyhinton.com",
-    "phone": "(912) 555-4321",
-    "website": "http://richardhendricks.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "phone": "(743) 743-9051",
+    "website": "https://anthonyhinton.com",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
+      "address": "805 Lombard Street",
+      "postalCode": "CA 94133",
       "city": "San Francisco",
       "countryCode": "US",
       "region": "California"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
+        "network": "LinkedIn",
+        "username": "hintonanthony",
+        "url": "https://www.linkedin.com/in/hintonanthony"
       },
       {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.com/dandymusicnl"
+        "network": "Goodreads",
+        "username": "alhint",
+        "url": "https://www.goodreads.com/alhint"
       }
     ]
   },
   "work": [
     {
-      "company": "Pied Piper",
-      "position": "CEO/President",
-      "website": "http://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "company": "Square",
+      "position": "Product Analyst",
+      "website": "https://squareup.com/us/en",
+      "startDate": "January 2018",
+      "endDate": "Present",
+      "summary": "",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Serve as sole analytics partner for Risk Products and own data/dashboards related to 4 risk-related seller-facing products",
+        "Design/monitor product KPIs and break down trends with readily-available drivers in bi-weekly company-wide email",
+        "Design/implement A/B tests for feature updates/releases and communicate findings/recommendations in written reports",
+        "Create logging specifications during product planning stage and use real-time event testing to validate implementation"
       ]
-    }
+    },
+    {
+      "company": "",
+      "position": "Risk Program Manager",
+      "website": "",
+      "startDate": "November 2016",
+      "endDate": "January 2018",
+      "summary": "",
+      "highlights": [
+        "Developed and implemented a solution to address sticking points in sales-account onboarding flow that increased close rate by 20% and reduced sales cycle and time-to-completion by 10% and 90%, respectively",
+        "Led development of an e-commerce risk management strategy using payments/partnership data, and in collaboration with Product/Data Science, which reduced manual caseload and unnecessary account interruptions by 12% and 8%, respectively",
+        "Developed metrics to characterize credit risk loss and communicated trends/learnings to leadership and stakeholders"
+      ]
+    },
+    {
+      "company": "Bank of America Merrill Lynch",
+      "position": "Senior Credit Analyst",
+      "website": "https://www.bofaml.com/en-us/content/about-bofaml-capabilities.html",
+      "startDate": "March 2015",
+      "endDate": "September 2016",
+      "summary": "",
+      "highlights": [
+        "Structured and underwrote credit capital for working capital management, growth acquisitions, and restructures",
+        "Monitored performance and repayment strength of portfolio of 38 companies with $50 mm-$4 bn in revenue",
+        "Produced detailed financial analysis, extensive modeling, and in-depth industry research for each client quarterly"
+      ]
+    },
+    {
+      "company": "",
+      "position": "Credit Analyst",
+      "website": "",
+      "startDate": "July 2014",
+      "endDate": "February 2015",
+      "summary": "",
+      "highlights": [
+        "Graduated from a 6-month credit training program with an emphasis on cash flow analysis, financial modeling, and loan structuring."
+      ]
+    },
   ],
   "volunteer": [
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "http://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
+      "organization": "Stamp Staff Language Partnership Program",
+      "position": "Terps for Change Volunteer",
+      "website": "https://sustainability.umd.edu/students/terps-change-volunteers",
+      "startDate": "May 2013",
+      "endDate": "May 2014",
+      "summary": "Terps for Change is an immersive community service-learning program where students partner with local service non-profits to build relationships, directly support organization's long-term strategic mission, and develop an intimate understanding of social issues.",
       "highlights": [
-        "Awarded 'Teacher of the Month'"
+        ""
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
+      "institution": "University of Maryland - Robert H. Smith School of Business",
+      "area": "Double Major, Finance and Accounting",
+      "studyType": "Bachelor of Science",
+      "startDate": "September 2009",
+      "endDate": "May 2014",
+      "gpa": "3.51",
       "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
+        "",
+        "BMGT220 - Accounting I",
+        "BMGT221 - Accounting II",
+        "BMGT326 - Accounting Information Systems",
+        "BMGT440 - Advanced Financial Management",
+        "BMGT422 - Auditing Theory and Practice",
+        "BMGT443F - Banking and Financial Institutions",
+        "BMGT350 - Business Law I",
+        "BMGT495 - Business Policies",
+        "BMGT230H - Business Statistics",
+        "ENGL394 - Business Writing",
+        "BMGT340 - Corporate Finance",
+        "BMGT411 - Ethics and Professionalism in Accounting",
+        "BMGT313F - Financial Statement Analysis",
+        "BUFN751 - Financial Strategy for Corporations",
+        "BMGT423 - Fraud Examination",
+        "BMGT301 - Information Systems",
+        "BMGT310 - Intermediate Accounting I",
+        "BMGT311 - Intermediate Accounting II",
+        "ECON305 - Intermediate Macroeconomic Theory & Policy",
+        "BMGT343 - Investments",
+        "BMGT364 - Management and Organization Theory",
+        "BMGT321 - Managerial Accounting",
+        "BMGT350 - Marketing Principles and Organization",
+        "ECON330 - Money and Banking",
+        "HONR348M - Stock Market and Technical Analysis",
+        "BMGT323 - Taxation of Individuals"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
+      "title": "Global Recognition: Silver Award",
+      "date": "August 2015",
+      "awarder": "Bank of America Merrill Lynch",
+      "summary": "Recognized for outstanding efforts as a coach and mentor to junior colleagues."
+    },
+    {
+      "title": "Robert H. Smith School of Business Dean's List 2012-2014",
+      "date": "May 2014",
+      "awarder": "University of Maryland Robert H. Smith School of Business",
+      "summary": ""
+    },
+    {
+      "title": "University Honors Citation",
+      "date": "April 2013",
+      "awarder": "University of Maryland Honors College",
+      "summary": ""
     }
   ],
   "publications": [
     {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      "name": "Ideas, Collected",
+      "publisher": "",
+      "releaseDate": "2019-12-15",
+      "website": "https://www.ideascollected.com",
+      "summary": ""
     }
   ],
   "skills": [
@@ -123,8 +198,8 @@
   ],
   "references": [
     {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "name": "Greg Birman",
+      "reference": ""
     }
   ]
 }
