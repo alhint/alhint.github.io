@@ -29,7 +29,7 @@
   },
   "work": [
     {
-      "company": "Square",
+      "company": "Square, Inc.",
       "position": "Product Analyst",
       "website": "https://squareup.com/us/en",
       "startDate": "January 2018",
@@ -79,6 +79,19 @@
         "Graduated from a 6-month credit training program with an emphasis on cash flow analysis, financial modeling, and loan structuring."
       ]
     },
+    {
+      "company": "Perigee Capital Partners",
+      "position": "Private Equity Analyst",
+      "website": "http://www.perigeecapital.com/",
+      "startDate": "March 2013",
+      "endDate": "October 2013",
+      "summary": "",
+      "highlights": [
+        "Served as a key player on 5-person team that collectively worked on 20 deals valued over $300 million",
+        "Performed detailed LBO and capital structure modeling to stress test IRRs under various growth/debt scenarios",
+        "Researched, identified, and qualified investment opportunities based on market analysis and investment criteria"
+      ]
+    }
   ],
   "volunteer": [
     {
@@ -101,8 +114,8 @@
       "startDate": "September 2009",
       "endDate": "May 2014",
       "gpa": "3.51",
+      "website": "https://www.rhsmith.umd.edu/",
       "courses": [
-        "",
         "BMGT220 - Accounting I",
         "BMGT221 - Accounting II",
         "BMGT326 - Accounting Information Systems",
@@ -156,15 +169,39 @@
     {
       "name": "Ideas, Collected",
       "publisher": "",
-      "releaseDate": "2019-12-15",
+      "releaseDate": "December 2019",
       "website": "https://www.ideascollected.com",
-      "summary": ""
+      "summary": "Write summary here"
     }
   ],
   "skills": [
     {
+      "name": "Data Analysis",
+      "level": "",
+      "keywords": [
+        "SQL",
+        "Python"
+      ]
+    },
+    {
+      "name": "Data Visualization",
+      "level": "",
+      "keywords": [
+        "Looker",
+        "Tableau"
+      ]
+    },
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": [
+        "JIRA",
+        "Trello"
+      ]
+    },
+    {
       "name": "Web Development",
-      "level": "Master",
+      "level": "",
       "keywords": [
         "HTML",
         "CSS",
@@ -172,14 +209,14 @@
       ]
     },
     {
-      "name": "Compression",
-      "level": "Master",
+      "name": "Design",
+      "level": "",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "Figma",
+        "Sketch",
+        "Balsamiq"
       ]
-    }
+    },
   ],
   "languages": [
     {
@@ -189,17 +226,30 @@
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Sports",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Climbing",
+        "Calisthenics",
+        "Running"
+      ]
+    },
+    {
+      "name": "Reading",
+      "keywords": [
+        "Metalearning",
+        "Stocisim",
+        "History",
+        "Evolutionary biology",
+        "American history",
+        "World history",
+        "Self improvement"
       ]
     }
   ],
   "references": [
     {
       "name": "Greg Birman",
-      "reference": ""
+      "reference": "Anthony was the PMO I reported to during my internship at Bank of America in 2015. Anthony was extremely generous with his time and knowledge as he coached me on skills needed for a role in financial analysis. Anthony became a mentor and was always available to provide guidance to help me succeed. He actively sought opportunities to get me involved in any deals he was working on and was clearly well-versed with his client's needs and performance. He is very talented at modeling different scenarios, and clearly communicating his thought process and methodologies. Anthony's technical skills and work ethic are second to none, and have set a high bar of expectation within our group. I now work full-time at the Bank and I am sad to see him go. I can speak for our whole team when I say that he will be missed."
     }
   ]
 }

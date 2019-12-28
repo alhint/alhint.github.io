@@ -6,3 +6,11 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+#smaller_font {
+  font-size: 0.9em;
+}
+
+#link_color {
+  color: $primary-color;
+}
