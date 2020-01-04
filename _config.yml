@@ -77,26 +77,26 @@ analytics:
 # Site Author
 author:
   name                    : "Anthony Hinton"
-  avatar                  : "/assets/images/profilepic.png" #path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio                     : "wip"
+  avatar                  : "/assets/images/profilepic.png"
+  bio                     : " "
   location                : "San Francisco, CA"
   email                   : me@anthonyhinton.com
   links:
-    - label               : #"Ideas, Collected"
-      icon                : #"fas fa-book-open"
-      url                 : #"https://www.ideascollected.com"
-    - label               : #"LinkedIn"
-      icon                : #"fab fa-fw fa-linkedin"
-      url                 : #"www.linkedin.com/in/alhint"
-    - label               : #"Goodreads"
-      icon                : #"fab fa-fw fa-goodreads"
-      url                 : #"https://www.goodreads.com/alhint"
-    - label               : #"GitHub"
-      icon                : #"fab fa-fw fa-github"
-      url                 : #"https://github.com/alhint"
+    # - label               : "Ideas, Collected"
+    #   icon                : "fas fa-book-open"
+    #   url                 : "https://www.ideascollected.com"
+    - label               : "LinkedIn"
+      icon                : "fab fa-fw fa-linkedin"
+      url                 : "https://www.linkedin.com/in/alhint"
+    - label               : "Goodreads"
+      icon                : "fab fa-fw fa-goodreads"
+      url                 : "https://www.goodreads.com/alhint"
+    - label               : "GitHub"
+      icon                : "fab fa-fw fa-github"
+      url                 : "https://github.com/alhint"
     - label               : #"Discogs"
       icon                : #"fas fa-record-vinyl"
-      url                 : #"https://www.discogs.com/user/alhint"
+      url                 : #"https://discogs.com/user/alhint"
     - label               : #"Email"
       icon                : #"far fa-fw fa-envelope"
       url                 : #mailto:your.me@anthonyhinton.com
@@ -110,6 +110,7 @@ author:
       icon                : #"fab fa-fw fa-instagram"
       url                 : #"https://instagram.com/"
 
+
 # Site Footer
 footer:
   links:
@@ -118,16 +119,16 @@ footer:
       url                 : "https://www.ideascollected.com"
     - label               : "LinkedIn"
       icon                : "fab fa-fw fa-linkedin"
-      url                 : "https://www.linkedin.com/in/alhint"
+      url                 : "https://linkedin.com/in/alhint"
     - label               : "Goodreads"
       icon                : "fab fa-fw fa-goodreads"
-      url                 : "https://www.goodreads.com/alhint"
+      url                 : "https://goodreads.com/alhint"
     - label               : "GitHub"
       icon                : "fab fa-fw fa-github"
       url                 : "https://github.com/alhint"
     - label               : "Discogs"
       icon                : "fas fa-record-vinyl"
-      url                 : "https://www.discogs.com/user/alhint"
+      url                 : "https://discogs.com/user/alhint"
 
 
 # Reading Files
