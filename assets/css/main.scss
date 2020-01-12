@@ -20,3 +20,69 @@
   color: $primary-color;
   font-size: $type-size-2;
 }
+
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?vgmiug');
+  src:  url('fonts/icomoon.eot?vgmiug#iefix') format('embedded-opentype'),
+        url('fonts/icomoon.ttf?vgmiug') format('truetype'),
+        url('fonts/icomoon.woff?vgmiug') format('woff'),
+        url('fonts/icomoon.svg?vgmiug#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-ah-logo:before {
+  content: "\e902";
+  // color: #55b5db;
+  color: #0092ca;
+  margin-left: 0.1em;
+  margin-right: 0.1em;
+}
+
+.icon-ah-logo-no-color:before {
+  content: "\e900";
+  margin-left: 0.1em;
+  margin-right: 0.1em;
+}
+
+.icon-ic-logo:before {
+  content: "\e901";
+  color: #55b5db;
+  margin-left: 0.1em;
+  margin-right: 0.1em;
+}
+
+.icon-ic-logo-no-color:before {
+  content: "\e903";
+  color: #0092ca;
+  margin-left: 0.1em;
+  margin-right: 0.1em;
+}
+
+.icon-discogs:before {
+  content: "\e907";
+  margin-left: 0.15em;
+  margin-right: 0.15em;
+  color: #333333;
+}
+
+#brightness:before {
+  color: white;
+}
